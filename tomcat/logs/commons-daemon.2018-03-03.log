@@ -1,0 +1,8 @@
+[2018-03-03 22:35:53] [info]  [ 3732] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2018-03-03 22:35:53] [info]  [ 3732] Service Tomcat8 name Apache Tomcat 8.5 Tomcat8
+[2018-03-03 22:35:55] [info]  [ 3732] Service 'Tomcat8' installed
+[2018-03-03 22:35:55] [info]  [ 3732] Commons Daemon procrun finished
+[2018-03-03 22:36:01] [info]  [ 3784] Commons Daemon procrun (1.0.15.0 64-bit) started
+[2018-03-03 22:36:01] [info]  [ 3784] Running 'Tomcat8' Service...
+[2018-03-03 22:36:01] [info]  [ 3840] Starting service...
+[2018-03-03 22:36:02] [info]  [ 3840] Service started in 1266 ms.

@@ -1,0 +1,25 @@
+
+2018-03-03 22:36:01 Commons Daemon procrun stderr initialized
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version:        Apache Tomcat/8.5.12
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 8 2017 17:41:47 UTC
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server number:         8.5.12.0
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows Server 2016
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Java\jdk1.8.0_162\jre
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           1.8.0_162-b12
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Oracle Corporation
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Program Files\Apache Software Foundation\tomcat\apache-tomcat-8.5.12
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Program Files\Apache Software Foundation\tomcat\apache-tomcat-8.5.12
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Program Files\Apache Software Foundation\tomcat\apache-tomcat-8.5.12
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Program Files\Apache Software Foundation\tomcat\apache-tomcat-8.5.12
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Program Files\Apache Software Foundation\tomcat\apache-tomcat-8.5.12\temp
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Program Files\Apache Software Foundation\tomcat\apache-tomcat-8.5.12\conf\logging.properties
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: exit
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xms128m
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xmx256m
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library 1.2.12 using APR version 1.5.2.
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+03-Mar-2018 13:36:02.533 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+03-Mar-2018 13:36:03.158 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized (OpenSSL 1.0.2k  26 Jan 2017)
